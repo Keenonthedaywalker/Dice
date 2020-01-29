@@ -1,2 +1,2 @@
-# Dice
+# Roll a Single Die
 Just a die...
